@@ -394,7 +394,6 @@ img {
     color: var(--tittle-text-color);
     background: #f5f4fa;
 
-    margin-bottom: 50px;
     padding: 6px 22px;
 }  
 
@@ -409,7 +408,7 @@ img {
 .hero-list {
     display: flex;
     justify-content: center;
-    margin: auto;
+    margin-bottom: 50px;
 }
 .hero-button {
     border-radius: 4px;
